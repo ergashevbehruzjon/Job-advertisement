@@ -3,7 +3,7 @@
 body {
   @apply antialiased;
   @apply subpixel-antialiased;
-  width:screen;
+  overflow:auto;
 }
 
 .main {
