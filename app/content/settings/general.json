@@ -1,7 +1,7 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "title": "Job Advertisement",
+  "titleTemplate": "",
+  "welcomeText": "Job purpose: The Principal is responsible for leading, managing, and developing the Presidential School to ensure that it provides the highest standards of education and pastoral care to all students. The principal is also responsible for developing and maintaining effective relationships with all stakeholders, including PIIMA, students, staff, parents, the Board of Governors/Trustees, HR, and the wider community.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
