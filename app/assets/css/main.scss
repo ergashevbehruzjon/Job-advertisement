@@ -3,7 +3,7 @@
 body {
   @apply antialiased;
   @apply subpixel-antialiased;
-  overflow:auto;
+  overflow-x:hidden;
 }
 
 .main {
