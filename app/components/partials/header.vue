@@ -1,6 +1,6 @@
 <template>
   <header class="flex items-center py-4 md:py-8">
-    <div class="header__logo" style="display:block;margin-left:auto;margin-right:auto;width:75%;align-items:center;">
+    <div class="header__logo" style="margin-left:auto;margin-right:auto;display: flex;justify-content: center;">
       <nuxt-link to="/">
         <img :src="logo" style="width:40px;height:40px;display:inline;" alt="Logo" />
         <h1 style="display:inline;font-size:2em;font-weight: bolder;">Head teacher for Presidential School in Jizzakh</h1>
