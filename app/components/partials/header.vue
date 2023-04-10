@@ -1,10 +1,10 @@
 <template>
   <header class="flex items-center py-4 md:py-8">
-    <div class="header__logo">
+    <div class="header__logo" style="display:block;margin-left:auto;margin-right:auto;width:50%">
       <nuxt-link to="/">
-        <img :src="logo" style="width:40px;height:40px;display:block;margin-left:auto;margin-right:auto;" alt="Logo" />
+        <img :src="logo" style="width:40px;height:40px;display:inline;" alt="Logo" />
       </nuxt-link>
-      <h1 style="display:inline;">Head teacher for Presidential School in Jizzakh</h1>
+      <h1>Head teacher for Presidential School in Jizzakh</h1>
     </div>
 
     <!-- <nav class="nav ml-auto">
