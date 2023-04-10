@@ -2,8 +2,9 @@
   <header class="flex items-center py-4 md:py-8">
     <div class="header__logo">
       <nuxt-link to="/">
-        <img :src="logo" alt="Logo" />
+        <img :src="../../static/images/uploads/logo.png" style="width:40px;height:40px;" alt="Logo" />
       </nuxt-link>
+      <p>Head teacher for Presidential School in Jizzakh</p>
     </div>
 
     <!-- <nav class="nav ml-auto">
