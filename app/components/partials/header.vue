@@ -3,8 +3,8 @@
     <div class="header__logo" style="display:block;margin-left:auto;margin-right:auto;width:50%">
       <nuxt-link to="/">
         <img :src="logo" style="width:40px;height:40px;display:inline;" alt="Logo" />
+        <h1 style="display:inline;font-size:2em;font-weight: bolder;">Head teacher for Presidential School in Jizzakh</h1>
       </nuxt-link>
-      <h1>Head teacher for Presidential School in Jizzakh</h1>
     </div>
 
     <!-- <nav class="nav ml-auto">
