@@ -48,7 +48,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="../static/images/uploads/logo.png"
+          src="../static/images/uploads/teacher1.png"
         />
       </div>
     </div>
