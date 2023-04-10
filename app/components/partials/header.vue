@@ -2,7 +2,7 @@
   <header class="flex items-center py-4 md:py-8">
     <div class="header__logo">
       <nuxt-link to="/">
-        <img :src="../../static/images/uploads/logo.png" style="width:40px;height:40px;" alt="Logo" />
+        <img :src="logo" style="width:40px;height:40px;" alt="Logo" />
       </nuxt-link>
       <p>Head teacher for Presidential School in Jizzakh</p>
     </div>
